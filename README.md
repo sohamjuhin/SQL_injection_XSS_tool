@@ -9,4 +9,4 @@ sudo apt-get install python3-pip
 pip3 install requests
 
 Tool Run  command:
-python3 vulnerability_scanner.py
+python3 Sql_iXSS.py
